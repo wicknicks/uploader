@@ -12,8 +12,7 @@ Extract the zip file anywhere, and start the server with the command:
 
     node upload.js
 
-Point your browser to [http://localhost:3000/](http://localhost:3000/) to bring up the uploader page. Press the button 
-Add Photos to Queue" to add photos from a directory. This collects photos into a 'queue'. You can see a message like :
+Point your browser to [http://localhost:3000/](http://localhost:3000/) to bring up the uploader page. Press the button "Add Photos to Queue" to add photos from a directory. This collects photos into a 'queue'. You can see a message like :
 
     117 items added to the queue. Press Upload Queue.
 
